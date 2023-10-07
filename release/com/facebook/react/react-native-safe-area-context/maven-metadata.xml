@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.facebook.react</groupId>
+  <artifactId>react-native-safe-area-context</artifactId>
+  <versioning>
+    <latest>3.3.2-jitsi-15040004</latest>
+    <release>3.3.2-jitsi-15040004</release>
+    <versions>
+      <version>3.3.2-jitsi-15030759</version>
+      <version>3.3.2-jitsi-15040004</version>
+    </versions>
+    <lastUpdated>20231007164726</lastUpdated>
+  </versioning>
+</metadata>
